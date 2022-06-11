@@ -47,5 +47,5 @@ When we don't use Document Client
 - `DeleteItem`
 
 ## Reference
-- [AWS official docs : Using the DynamoDB Document Client](https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/dynamodb-example-document-client.html)
+- [AWS official docs : Using the Dynamo DB Document Client](https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/dynamodb-example-document-client.html)
 - [AWS official docs : Working with Items and Attributes](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/WorkingWithItems.html)
