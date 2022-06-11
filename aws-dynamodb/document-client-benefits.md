@@ -1,5 +1,5 @@
 ## Version
-- 
+- AWS SDK v2
 
 ## With Dynamo DB Document Client
 ```js
