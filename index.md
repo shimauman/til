@@ -9,12 +9,12 @@ What Shimauman learned through daily working and personal projects are on this w
 
 # Items
 
-## AWS
-### Dynamo DB
+## AWS Dynamo DB
 - [document-client-benefits](./aws/dynamodb/document-client-benefits.md)
 - [primary-key-partiton-and-sort](./aws/dynamodb/primary-key-partiton-and-sort.md)
 - [use-async-await](./aws/dynamodb/use-async-await-for-sdk.md)
-### Lambda
+
+## AWS Lambda
 - [get-date-japanese-with-nodejs](./aws/lambda/get-date-japanese-with-nodejs.md)
 
 ## CSS
