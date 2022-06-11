@@ -11,6 +11,7 @@ What Shimauman learned through daily working and personal projects are on this w
 
 ## AWS Dynamo DB
 - [document-client-benefits](./aws/dynamodb/document-client-benefits.md)
+- [document-client-config-to-use-on-local](./aws-dynamodb/document-client-config-to-use-on-local.md)
 - [primary-key-partiton-and-sort](./aws/dynamodb/primary-key-partiton-and-sort.md)
 - [document-client-get-item](./aws-dynamodb/document-client-get-item.md)
 - [use-async-await](./aws/dynamodb/use-async-await-for-sdk.md)
