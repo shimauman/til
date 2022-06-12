@@ -78,5 +78,8 @@ What Shimauman learned through daily working and personal projects are on this w
 - [selector-text](./playwright/selector-text.md)
 - [what-is-playwright](./playwright/what-is-playwright.md)
 
+## Server
+- [http-server-one-liner-digest](./server/http-server-one-liner-digest.md)
+
 ## Shell
 - [bash-profile-rc-difference](./shell/bash-profile-rc-difference.md)
