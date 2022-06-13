@@ -87,6 +87,7 @@ What Shimauman learned through daily working and personal projects are on this w
 - [http-server-one-liner-digest](./server/http-server-one-liner-digest.md)
 
 ## Serverless
+- [deploy-service-commands](./serverless/deploy-service-commands.md)
 - [overview](./serverless/overview.md)
 
 ## Shell
