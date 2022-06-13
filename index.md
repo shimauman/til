@@ -41,6 +41,7 @@ What Shimauman learned through daily working and personal projects are on this w
 - [array-unique-elements](./javascript/array-unique-elements.md)
 - [async-await-history](./javascript/async-await-history.md)
 - [loop-parallelly-sequentially](./javascript/loop-parallelly-sequentially.md)
+- [number-method-convertion-result-list](./javascript/number-method-convertion-result-list.md)
 - [object-loop](./javascript/object-loop.md)
 - [object-output-log](./javascript/object-output-log.md)
 
