@@ -95,3 +95,6 @@ What Shimauman learned through daily working and personal projects are on this w
 
 ## Shell
 - [bash-profile-rc-difference](./shell/bash-profile-rc-difference.md)
+
+## Other
+- [semantic-versioning](./semantic-versioning.md)
