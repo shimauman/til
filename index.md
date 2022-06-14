@@ -88,6 +88,7 @@ What Shimauman learned through daily working and personal projects are on this w
 
 ## Serverless
 - [deploy-service-commands](./serverless/deploy-service-commands.md)
+- [iam-role-to-access-dynamo-db-table](./serverless/iam-role-to-access-dynamo-db-table.md)
 - [overview](./serverless/overview.md)
 
 ## Shell
