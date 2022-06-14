@@ -17,6 +17,7 @@ What Shimauman learned through daily working and personal projects are on this w
 - [use-async-await](./aws/dynamodb/use-async-await-for-sdk.md)
 
 ## AWS Lambda
+- [event-schedule-set-by-cron-or-rate](./aws-lambda/event-schedule-set-by-cron-or-rate.md)
 - [get-date-japanese-with-nodejs](./aws/lambda/get-date-japanese-with-nodejs.md)
 
 ## CSS
