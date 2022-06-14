@@ -3,8 +3,8 @@
 
 ## Commands
 ```
-// We can check progress on terminal with v option.
-$ serverless deploy -v
+// We can check progress on terminal with verbose option.
+$ serverless deploy --verbose
 ```
 ```
 $ serverless deploy --stage production --region ap-northeast-1
