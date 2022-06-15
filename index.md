@@ -13,6 +13,7 @@ What Shimauman learned through daily working and personal projects are on this w
 - [document-client-benefits](./aws/dynamodb/document-client-benefits.md)
 - [document-client-config-to-use-on-local](./aws-dynamodb/document-client-config-to-use-on-local.md)
 - [document-client-get-item](./aws-dynamodb/document-client-get-item.md)
+- [document-client-transaction](./aws-dynamodb/document-client-transaction.md)
 - [good-reference-list](./aws-dynamodb/good-reference-list.md)
 - [primary-key-partiton-and-sort](./aws/dynamodb/primary-key-partiton-and-sort.md)
 - [use-async-await-for-sdk](./aws/dynamodb/use-async-await-for-sdk.md)
