@@ -57,6 +57,7 @@ What Shimauman learned through daily working and personal projects are on this w
 
 ## Node.js
 - [lockfileVersions-each-differences](./nodejs/lockfileVersions-each-differences.md)
+- [log4js-usage](./nodejs/log4js-usage.md)
 - [npm-update-in-windows](./nodejs/npm-update-in-windows.md)
 - [version-fix-among-team](./nodejs/version-fix-among-team.md)
 
