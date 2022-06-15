@@ -56,6 +56,7 @@ What Shimauman learned through daily working and personal projects are on this w
 - [make-command-argument](./linux/make-command-argument.md)
 
 ## Node.js
+- [json-file-load](./nodejs/json-file-load.md)
 - [lockfileVersions-each-differences](./nodejs/lockfileVersions-each-differences.md)
 - [log4js-usage](./nodejs/log4js-usage.md)
 - [npm-update-in-windows](./nodejs/npm-update-in-windows.md)
