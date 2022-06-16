@@ -99,5 +99,8 @@ What Shimauman learned through daily working and personal projects are on this w
 ## Shell
 - [bash-profile-rc-difference](./shell/bash-profile-rc-difference.md)
 
+## VS Code
+- [same-development-environment-among-team](./vs-code/same-development-environment-among-team.md)
+
 ## Other
 - [semantic-versioning(need to update)](./semantic-versioning.md)
