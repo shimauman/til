@@ -100,6 +100,7 @@ What Shimauman learned through daily working and personal projects are on this w
 - [bash-profile-rc-difference](./shell/bash-profile-rc-difference.md)
 
 ## VS Code
+- [diagram-display-extension](./vs-code/diagram-display-extension.md)
 - [same-development-environment-among-team](./vs-code/same-development-environment-among-team.md)
 
 ## Other
