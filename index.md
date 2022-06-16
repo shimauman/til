@@ -8,6 +8,8 @@ What Shimauman learned through daily working and personal projects are on this w
 <br />
 
 # Items
+## AWS CDK
+- [share-aws-resources-between-stacks(Japanese)](./aws-cdk/ja-share-aws-resources-between-stacks.md)
 
 ## AWS Dynamo DB
 - [document-client-benefits](./aws/dynamodb/document-client-benefits.md)
@@ -18,9 +20,30 @@ What Shimauman learned through daily working and personal projects are on this w
 - [primary-key-partiton-and-sort](./aws/dynamodb/primary-key-partiton-and-sort.md)
 - [use-async-await-for-sdk](./aws/dynamodb/use-async-await-for-sdk.md)
 
+## AWS ECS
+- [execution-role-and-task-role-difference(Japanese)](./aws-ecs/ja-execution-role-and-task-role-difference.md)
+
 ## AWS Lambda
 - [event-schedule-set-by-cron-or-rate](./aws-lambda/event-schedule-set-by-cron-or-rate.md)
 - [get-date-japanese-with-nodejs](./aws/lambda/get-date-japanese-with-nodejs.md)
+
+## AWS Load Balancer
+- [health-check-by-elb(Japanese)](./aws-load-balancer/ja-health-check-by-elb.md)
+
+## AWS VPC
+- [systems-manager-vpc-endpoints(Japanese)](./aws-vpc/ja-systems-manager-vpc-endpoints.md)
+
+## AWS Visualizations
+- [asynchronous-processing-with-laravel](./aws-visualizations/asynchronous-processing-with-laravel.jpeg)
+- [cpu-memory-allocation](./aws-visualizations/cpu-memory-allocation.jpeg)
+- [ec2-ecs-auto-scaling](./aws-visualizations/ec2-ecs-auto-scaling.jpeg)
+- [ecs](./aws-visualizations/ecs.jpeg)
+- [request-to-target-with-alb](./aws-visualizations/request-to-target-with-alb.jpeg)
+- [ssh](./aws-visualizations/ssh.jpeg)
+- [ssmmessages-ec2messages](./aws-visualizations/ssmmessages-ec2messages.jpeg)
+
+## AWS Other
+- [cost-management-cautions(Japanese)](./aws-other/js-cost-management-cautions.md)
 
 ## CSS
 - [youtube-iframe-responsive](./css/youtube-iframe-responsive.md)
