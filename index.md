@@ -127,4 +127,5 @@ What Shimauman learned through daily working and personal projects are on this w
 - [same-development-environment-among-team](./vs-code/same-development-environment-among-team.md)
 
 ## Other
-- [semantic-versioning(need to update)](./semantic-versioning.md)
+- [cheat-sheet-prefecture-list](./other/cheat-sheet-prefecture-list.md)
+- [semantic-versioning(need to update)](./other/semantic-versioning.md)
