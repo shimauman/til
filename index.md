@@ -46,6 +46,7 @@ What Shimauman learned through daily working and personal projects are on this w
 - [cost-management-cautions(Japanese)](./aws-other/js-cost-management-cautions.md)
 
 ## CSS
+- [icon-materials-references](./css/icon-materials-references.md)
 - [tailwind-css-cheat-sheet](./css/tailwind-css-cheat-sheet.md)
 - [youtube-iframe-responsive](./css/youtube-iframe-responsive.md)
 
