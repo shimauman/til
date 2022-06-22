@@ -126,6 +126,7 @@ What Shimauman learned through daily working and personal projects are on this w
 
 ## VS Code
 - [diagram-display-extension](./vs-code/diagram-display-extension.md)
+- [md-file-preview-extension](./vs-code/md-file-preview-extension.md)
 - [same-development-environment-among-team](./vs-code/same-development-environment-among-team.md)
 
 ## Other
