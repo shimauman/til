@@ -48,6 +48,7 @@ What Shimauman learned through daily working and personal projects are on this w
 ## CSS
 - [icon-materials-references](./css/icon-materials-references.md)
 - [tailwind-css-cheat-sheet](./css/tailwind-css-cheat-sheet.md)
+- [timeline-references](./css/timeline-references.md)
 - [youtube-iframe-responsive](./css/youtube-iframe-responsive.md)
 
 ## Gatsby
