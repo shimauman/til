@@ -75,7 +75,14 @@ What Shimauman learned through daily working and personal projects are on this w
 - [web-font-how-to-self-host](./gatsby/web-font-how-to-self-host.md)
 
 ## Git
+- [bye-git-management](./git/bye-git-management.md)
+- [cheat-sheet-branch-commands](./git/cheat-sheet-branch-commands.md)
+- [cheat-sheet-remote-commands](./git/cheat-sheet-remote-commands.md)
+- [cheat-sheet-reset-commands](./git/cheat-sheet-reset-commands.md)
+- [cheat-sheet-stash-commands](./git/cheat-sheet-stash-commands.md)
 - [clone-and-fork-difference](./git/clone-and-fork-difference.md)
+- [pick-up-commit-from-remote](./git/pick-up-commit-from-remote.md)
+- [set-upstream-branch](./git/set-upstream-branch.md)
 
 ## HTML
 - [a-tag-best-practice](./html/a-tag-best-practice.md)
