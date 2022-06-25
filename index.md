@@ -84,6 +84,10 @@ What Shimauman learned through daily working and personal projects are on this w
 - [pick-up-commit-from-remote](./git/pick-up-commit-from-remote.md)
 - [set-upstream-branch](./git/set-upstream-branch.md)
 
+## GitHub
+- [run-workflow-by-pull-request-events](./github/run-workflow-by-pull-request-events.md)
+- [run-workflow-manually](./github/run-workflow-manually.md)
+
 ## HTML
 - [a-tag-best-practice](./html/a-tag-best-practice.md)
 - [escape-list](./html/escape-list.md)
