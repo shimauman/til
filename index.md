@@ -51,6 +51,11 @@ What Shimauman learned through daily working and personal projects are on this w
 - [timeline-references](./css/timeline-references.md)
 - [youtube-iframe-responsive](./css/youtube-iframe-responsive.md)
 
+## Cypress
+- [best-practice-locator](./cypress/best-practice-locator.md)
+- [keep-the-subject](./cypress/keep-the-subject.md)
+- [return-specific-element](./cypress/return-specific-element.md)
+
 ## Gatsby
 - [if-in-class-name](./gatsby/if-in-class-name.md)
 - [link-with-localization](./gatsby/link-with-localization.md)
