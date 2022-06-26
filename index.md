@@ -91,7 +91,7 @@ What Shimauman learned through daily working and personal projects are on this w
 ## HTML
 - [a-tag-best-practice](./html/a-tag-best-practice.md)
 - [escape-cheat-sheet](./html/escape-cheat-sheet.md)
-- [href-javascript-void-0-issue](./html/href-javascript-void-0-issue.md)
+- [href-javascript-void-0-issue(Japanese)](./html/ja-href-javascript-void-0-issue.md)
 - [make-table](./html/make-table.md)
 
 ## JavaScript
