@@ -91,6 +91,8 @@ What Shimauman learned through daily working and personal projects are on this w
 ## HTML
 - [a-tag-best-practice](./html/a-tag-best-practice.md)
 - [escape-list](./html/escape-list.md)
+- [href-javascript-void-0-issue](./html/href-javascript-void-0-issue.md)
+- [make-table](./html/make-table.md)
 
 ## JavaScript
 - [array-unique-elements](./javascript/array-unique-elements.md)
