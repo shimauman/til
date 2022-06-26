@@ -75,14 +75,14 @@ What Shimauman learned through daily working and personal projects are on this w
 - [web-font-how-to-self-host](./gatsby/web-font-how-to-self-host.md)
 
 ## Git
+- [branch-commands-cheat-sheet](./git/branch-commands-cheat-sheet.md)
 - [bye-git-management](./git/bye-git-management.md)
-- [cheat-sheet-branch-commands](./git/cheat-sheet-branch-commands.md)
-- [cheat-sheet-remote-commands](./git/cheat-sheet-remote-commands.md)
-- [cheat-sheet-reset-commands](./git/cheat-sheet-reset-commands.md)
-- [cheat-sheet-stash-commands](./git/cheat-sheet-stash-commands.md)
 - [clone-and-fork-difference](./git/clone-and-fork-difference.md)
 - [pick-up-commit-from-remote](./git/pick-up-commit-from-remote.md)
+- [remote-commands-cheat-sheet](./git/remote-commands-cheat-sheet.md)
+- [reset-commands-cheat-sheet](./git/reset-commands-cheat-sheet.md)
 - [set-upstream-branch](./git/set-upstream-branch.md)
+- [stash-commands-cheat-sheet](./git/stash-commands-cheat-sheet.md)
 
 ## GitHub
 - [run-workflow-by-pull-request-events](./github/run-workflow-by-pull-request-events.md)
@@ -90,7 +90,7 @@ What Shimauman learned through daily working and personal projects are on this w
 
 ## HTML
 - [a-tag-best-practice](./html/a-tag-best-practice.md)
-- [escape-list](./html/escape-list.md)
+- [escape-cheat-sheet](./html/escape-cheat-sheet.md)
 - [href-javascript-void-0-issue](./html/href-javascript-void-0-issue.md)
 - [make-table](./html/make-table.md)
 
@@ -159,5 +159,5 @@ What Shimauman learned through daily working and personal projects are on this w
 - [same-development-environment-among-team](./vs-code/same-development-environment-among-team.md)
 
 ## Other
-- [cheat-sheet-prefecture-list](./other/cheat-sheet-prefecture-list.md)
+- [prefecture-list-cheat-sheet](./other/prefecture-list-cheat-sheet.md)
 - [semantic-versioning(need to update)](./other/semantic-versioning.md)
