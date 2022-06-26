@@ -109,6 +109,10 @@ What Shimauman learned through daily working and personal projects are on this w
 - [semicolon-usage](./javascript/semicolon-usage.md)
 - [stop-propagation](./javascript/stop-propagation.md)
 
+## jQuery
+- [each-iteration](./jquery/each-iteration.md)
+- [syntax-cheat-sheet](./jquery/syntax-cheat-sheet.md)
+
 ## Laravel
 - [@forelse-directive](./laravel/@forelse-directive.md)
 - [pagination-from-array](./laravel/pagination-from-array.md)
