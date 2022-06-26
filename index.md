@@ -97,10 +97,17 @@ What Shimauman learned through daily working and personal projects are on this w
 ## JavaScript
 - [array-unique-elements](./javascript/array-unique-elements.md)
 - [async-await-history](./javascript/async-await-history.md)
+- [es6-basic](./javascript/es6-basic.md)
+- [location-object-properties](./javascript/location-object-properties.md)
 - [loop-parallelly-sequentially](./javascript/loop-parallelly-sequentially.md)
 - [number-method-convertion-result-list](./javascript/number-method-convertion-result-list.md)
+- [object-destructuring-assignment](./javascript/object-destructuring-assignment.md)
 - [object-loop](./javascript/object-loop.md)
 - [object-output-log](./javascript/object-output-log.md)
+- [object-spread](./javascript/object-spread.md)
+- [replace-string-cheat-sheet](./javascript/replace-string-cheat-sheet.md)
+- [semicolon-usage](./javascript/semicolon-usage.md)
+- [stop-propagation](./javascript/stop-propagation.md)
 
 ## Laravel
 - [@forelse-directive](./laravel/@forelse-directive.md)
