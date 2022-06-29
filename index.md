@@ -126,6 +126,8 @@ What Shimauman learned through daily working and personal projects are on this w
 - [service-overview](./laravel/service-overview.jpeg)
 
 ## Linux
+- [access-mode-change](./linux/access-mode-change.md)
+- [ls-la-display-result](./linux/ls-la-display-result.md)
 - [make-command-argument](./linux/make-command-argument.md)
 
 ## Node.js
