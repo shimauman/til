@@ -186,5 +186,9 @@ What Shimauman learned through daily working and personal projects are on this w
 - [same-development-environment-among-team](./vs-code/same-development-environment-among-team.md)
 
 ## Other
+- [glob-pattern](./other/glob-pattern.md)
+- [annotation-comments(Japanese)](./other/ja-annotation-comments.md)
 - [prefecture-list-cheat-sheet](./other/prefecture-list-cheat-sheet.md)
-- [semantic-versioning(need to update)](./other/semantic-versioning.md)
+- [semantic-versioning](./other/semantic-versioning.md)
+- [ssh-access-management](./other/ssh-access-management.md)
+- [version-constraints](./other/version-constraints.md)
