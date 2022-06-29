@@ -134,6 +134,7 @@ What Shimauman learned through daily working and personal projects are on this w
 - [response-deviding-image](./nginx/response-deviding.jpeg)
 
 ## Node.js
+- [devDependencies-and-dependencies-difference](./nodejs/devDependencies-and-dependencies-difference.md)
 - [json-file-load](./nodejs/json-file-load.md)
 - [lockfileVersions-each-differences](./nodejs/lockfileVersions-each-differences.md)
 - [log4js-usage](./nodejs/log4js-usage.md)
