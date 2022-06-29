@@ -115,8 +115,15 @@ What Shimauman learned through daily working and personal projects are on this w
 
 ## Laravel
 - [@forelse-directive](./laravel/@forelse-directive.md)
-- [pagination-from-array](./laravel/pagination-from-array.md)
+- [accessors-and-mutators-definition](./laravel/accessors-and-mutators-definition.md)
 - [assert-redirect](./laravel/assert-redirect.md)
+- [collection-all-and-toArray-difference](./laravel/collection-all-and-toArray-difference.md)
+- [collection-methods](./laravel/collection-methods.md)
+- [eloquent-return-type-list](./laravel/eloquent-return-type-list.md)
+- [bootstrap-directory-role(Japanese)](./laravel/ja-bootstrap-directory-role.md)
+- [make-id-column-methods](./laravel/make-id-column-methods.md)
+- [pagination-from-array](./laravel/pagination-from-array.md)
+- [service-overview](./laravel/service-overview.jpeg)
 
 ## Linux
 - [make-command-argument](./linux/make-command-argument.md)
