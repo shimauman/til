@@ -123,12 +123,15 @@ What Shimauman learned through daily working and personal projects are on this w
 - [bootstrap-directory-role(Japanese)](./laravel/ja-bootstrap-directory-role.md)
 - [make-id-column-methods](./laravel/make-id-column-methods.md)
 - [pagination-from-array](./laravel/pagination-from-array.md)
-- [service-overview](./laravel/service-overview.jpeg)
+- [service-overview-image](./laravel/service-overview.jpeg)
 
 ## Linux
 - [access-mode-change](./linux/access-mode-change.md)
 - [ls-la-display-result](./linux/ls-la-display-result.md)
 - [make-command-argument](./linux/make-command-argument.md)
+
+## NGINX
+- [response-deviding-image](./nginx/response-deviding.jpeg)
 
 ## Node.js
 - [json-file-load](./nodejs/json-file-load.md)
