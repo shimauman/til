@@ -179,6 +179,9 @@ What Shimauman learned through daily working and personal projects are on this w
 
 ## VS Code
 - [diagram-display-extension](./vs-code/diagram-display-extension.md)
+- [change-font(Japanese)](./vs-code/ja-change-font.md)
+- [type-sequence-numbers(Japanese)](./vs-code/ja-type-sequence-numbers.md)
+- [upper-and-lower-case-transform(Japanese)](./vs-code/ja-upper-and-lower-case-transform.md)
 - [md-file-preview-extension](./vs-code/md-file-preview-extension.md)
 - [same-development-environment-among-team](./vs-code/same-development-environment-among-team.md)
 
