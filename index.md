@@ -200,6 +200,7 @@ What Shimauman learned through daily working and personal projects are on this w
 ## Other
 - [glob-pattern](./other/glob-pattern.md)
 - [annotation-comments(Japanese)](./other/ja-annotation-comments.md)
+- [terms(Japanese)](./other/ja-terms.md)
 - [prefecture-list-cheat-sheet](./other/prefecture-list-cheat-sheet.md)
 - [semantic-versioning](./other/semantic-versioning.md)
 - [ssh-access-management](./other/ssh-access-management.md)
