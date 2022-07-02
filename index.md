@@ -203,5 +203,6 @@ What Shimauman learned through daily working and personal projects are on this w
 - [terms(Japanese)](./other/ja-terms.md)
 - [prefecture-list-cheat-sheet](./other/prefecture-list-cheat-sheet.md)
 - [semantic-versioning](./other/semantic-versioning.md)
+- [sequel-ace-and-containers-relation](./other/sequel-ace-and-containers-relation.jpeg)
 - [ssh-access-management](./other/ssh-access-management.md)
 - [version-constraints](./other/version-constraints.md)
