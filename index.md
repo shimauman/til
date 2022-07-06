@@ -34,13 +34,17 @@ What Shimauman learned through daily working and personal projects are on this w
 - [systems-manager-vpc-endpoints(Japanese)](./aws-vpc/ja-systems-manager-vpc-endpoints.md)
 
 ## AWS Visualizations
-- [asynchronous-processing-with-laravel](./aws-visualizations/asynchronous-processing-with-laravel.jpeg)
+- [asynchronous-processing-container](./aws-visualizations/asynchronous-processing-container.jpeg)
+- [basic-deploy-flow](./aws-visualizations/basic-deploy-flow.jpeg)
+- [container-fall-solution](./aws-visualizations/container-fall-solution.jpeg)
+- [container-fall](./aws-visualizations/container-fall.jpeg)
 - [cpu-memory-allocation](./aws-visualizations/cpu-memory-allocation.jpeg)
 - [ec2-ecs-auto-scaling](./aws-visualizations/ec2-ecs-auto-scaling.jpeg)
 - [ecs](./aws-visualizations/ecs.jpeg)
 - [request-to-target-with-alb](./aws-visualizations/request-to-target-with-alb.jpeg)
 - [ssh](./aws-visualizations/ssh.jpeg)
 - [ssmmessages-ec2messages](./aws-visualizations/ssmmessages-ec2messages.jpeg)
+- [target-group](./aws-visualizations/target-group.jpeg)
 
 ## AWS Other
 - [cost-management-cautions(Japanese)](./aws-other/js-cost-management-cautions.md)
