@@ -36,6 +36,7 @@ What Shimauman learned through daily working and personal projects are on this w
 ## AWS Visualizations
 - [asynchronous-processing-container](./aws-visualizations/asynchronous-processing-container.jpeg)
 - [basic-deploy-flow](./aws-visualizations/basic-deploy-flow.jpeg)
+- [basic-infrastructure](./aws-visualizations/basic-infrastructure.jpeg)
 - [container-fall-solution](./aws-visualizations/container-fall-solution.jpeg)
 - [container-fall](./aws-visualizations/container-fall.jpeg)
 - [cpu-memory-allocation](./aws-visualizations/cpu-memory-allocation.jpeg)
