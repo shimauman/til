@@ -130,6 +130,7 @@ What Shimauman learned through daily working and personal projects are on this w
 - [make-id-column-methods](./laravel/make-id-column-methods.md)
 - [pagination-from-array](./laravel/pagination-from-array.md)
 - [service-overview-image](./laravel/service-overview.jpeg)
+- [sql-check](./laravel/sql-check.md)
 
 ## Linux
 - [access-mode-change](./linux/access-mode-change.md)
