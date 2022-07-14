@@ -22,8 +22,10 @@ What Shimauman learned through daily working and personal projects are on this w
 
 ## AWS ECS
 - [execution-role-and-task-role-difference(Japanese)](./aws-ecs/ja-execution-role-and-task-role-difference.md)
+- [resourse-relation-image](./aws-ecs/resourse-relation.jpeg)
 
 ## AWS Lambda
+- [deploy-script-image](./aws-lambda/deploy-script.jpeg)
 - [event-schedule-set-by-cron-or-rate](./aws-lambda/event-schedule-set-by-cron-or-rate.md)
 - [get-date-japanese-with-nodejs](./aws/lambda/get-date-japanese-with-nodejs.md)
 
@@ -41,7 +43,6 @@ What Shimauman learned through daily working and personal projects are on this w
 - [container-fall](./aws-visualizations/container-fall.jpeg)
 - [cpu-memory-allocation](./aws-visualizations/cpu-memory-allocation.jpeg)
 - [ec2-ecs-auto-scaling](./aws-visualizations/ec2-ecs-auto-scaling.jpeg)
-- [ecs](./aws-visualizations/ecs.jpeg)
 - [request-to-target-with-alb](./aws-visualizations/request-to-target-with-alb.jpeg)
 - [ssh](./aws-visualizations/ssh.jpeg)
 - [ssmmessages-ec2messages](./aws-visualizations/ssmmessages-ec2messages.jpeg)
