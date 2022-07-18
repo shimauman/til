@@ -35,18 +35,21 @@ What Shimauman learned through daily working and personal projects are on this w
 ## AWS VPC
 - [systems-manager-vpc-endpoints(Japanese)](./aws-vpc/ja-systems-manager-vpc-endpoints.md)
 
-## AWS Visualizations
-- [asynchronous-processing-container](./aws-visualizations/asynchronous-processing-container.jpeg)
-- [basic-deploy-flow](./aws-visualizations/basic-deploy-flow.jpeg)
-- [basic-infrastructure](./aws-visualizations/basic-infrastructure.jpeg)
-- [container-fall-solution](./aws-visualizations/container-fall-solution.jpeg)
-- [container-fall](./aws-visualizations/container-fall.jpeg)
-- [cpu-memory-allocation](./aws-visualizations/cpu-memory-allocation.jpeg)
-- [ec2-ecs-auto-scaling](./aws-visualizations/ec2-ecs-auto-scaling.jpeg)
-- [request-to-target-with-alb](./aws-visualizations/request-to-target-with-alb.jpeg)
-- [ssh](./aws-visualizations/ssh.jpeg)
-- [ssmmessages-ec2messages](./aws-visualizations/ssmmessages-ec2messages.jpeg)
-- [target-group](./aws-visualizations/target-group.jpeg)
+## Infrastructure Visualizations
+- [access-to-application](./infrastructure-visualizations/access-to-application.jpeg)
+- [asynchronous-processing-container](./infrastructure-visualizations/asynchronous-processing-container.jpeg)
+- [aws-basic-deploy-flow](./infrastructure-visualizations/aws-basic-deploy-flow.jpeg)
+- [aws-container-fall-solution](./infrastructure-visualizations/aws-container-fall-solution.jpeg)
+- [aws-container-fall](./infrastructure-visualizations/aws-container-fall.jpeg)
+- [aws-ec2-ecs-auto-scaling](./infrastructure-visualizations/aws-ec2-ecs-auto-scaling.jpeg)
+- [aws-infrastructure-sample](./infrastructure-visualizations/aws-infrastructure-sample.jpeg)
+- [aws-request-to-target-with-alb](./infrastructure-visualizations/aws-request-to-target-with-alb.jpeg)
+- [aws-ssmmessages-ec2messages](./infrastructure-visualizations/aws-ssmmessages-ec2messages.jpeg)
+- [aws-target-group](./infrastructure-visualizations/aws-target-group.jpeg)
+- [cookie-session](./infrastructure-visualizations/cookie-session.jpeg)
+- [cpu-memory-allocation](./infrastructure-visualizations/cpu-memory-allocation.jpeg)
+- [load-balancer](./infrastructure-visualizations/load-balancer.jpeg)
+- [ssh](./infrastructure-visualizations/ssh.jpeg)
 
 ## AWS Other
 - [cost-management-cautions(Japanese)](./aws-other/js-cost-management-cautions.md)
