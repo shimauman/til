@@ -182,6 +182,7 @@ What Shimauman learned through daily working and personal projects are on this w
 - [phpunit-preparation](./php/phpunit-preparation.md)
 - [property-type-definition](./php/property-type-definition.md)
 - [super-global-variable-server](./php/super-global-variable-server.md)
+- [v70-after-summary](./php/v70-after-summary.md)
 - [v74-summary](./php/v74-summary.md)
 
 ## Playwright
