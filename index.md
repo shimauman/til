@@ -9,7 +9,7 @@ What Shimauman learned through daily working and personal projects are on this w
 
 # Items
 ## AWS CDK
-- [share-aws-resources-between-stacks(Japanese)](./aws-cdk/ja-share-aws-resources-between-stacks.md)
+- [share-aws-resources-between-stacks(Japanese)(Need to update)](./aws-cdk/ja-share-aws-resources-between-stacks.md)
 
 ## AWS Dynamo DB
 - [document-client-benefits](./aws/dynamodb/document-client-benefits.md)
@@ -30,7 +30,7 @@ What Shimauman learned through daily working and personal projects are on this w
 - [get-date-japanese-with-nodejs](./aws/lambda/get-date-japanese-with-nodejs.md)
 
 ## AWS Load Balancer
-- [health-check-by-elb(Japanese)](./aws-load-balancer/ja-health-check-by-elb.md)
+- [health-check-by-elb(Japanese)(Need to update)](./aws-load-balancer/ja-health-check-by-elb.md)
 
 ## AWS VPC
 - [systems-manager-vpc-endpoints(Japanese)](./aws-vpc/ja-systems-manager-vpc-endpoints.md)
@@ -67,13 +67,13 @@ What Shimauman learned through daily working and personal projects are on this w
 
 ## Docker
 - [install-composer](./docker/install-composer.md)
-- [it-option-in-docker-compose-yml](./docker/it-option-in-docker-compose-yml.md)
+- [it-option-in-docker-compose-yml(Need to update)](./docker/it-option-in-docker-compose-yml.md)
 - [add-vs-copy(Japanese)](./docker/ja-add-vs-copy.md)
 - [compress-image-to-tar(Japanese)](./docker/ja-compress-image-to-tar.md)
 - [containers-in-local(Japanese)](./docker/ja-containers-in-local.md)
 - [git-bash-path-issue(Japanese)](./docker/ja-git-bash-path-issue.md)
 - [run-command-without-sudo(Japanese)](./docker/ja-run-command-without-sudo.md)
-- [type-show-japanese-in-container(Japanese)](./docker/ja-type-show-japanese-in-container.md)
+- [type-show-japanese-in-container(Japanese)(Need to update)](./docker/ja-type-show-japanese-in-container.md)
 
 ## Gatsby
 - [if-in-class-name](./gatsby/if-in-class-name.md)
@@ -129,8 +129,8 @@ What Shimauman learned through daily working and personal projects are on this w
 - [collection-all-and-toArray-difference](./laravel/collection-all-and-toArray-difference.md)
 - [collection-methods](./laravel/collection-methods.md)
 - [eloquent-return-type-list](./laravel/eloquent-return-type-list.md)
-- [bootstrap-directory-role(Japanese)](./laravel/ja-bootstrap-directory-role.md)
-- [make-id-column-methods](./laravel/make-id-column-methods.md)
+- [bootstrap-directory-role(Japanese)(Need to update)](./laravel/ja-bootstrap-directory-role.md)
+- [make-id-column-methods(Need to update)](./laravel/make-id-column-methods.md)
 - [pagination-from-array](./laravel/pagination-from-array.md)
 - [service-overview-image](./laravel/service-overview.jpeg)
 - [sql-check](./laravel/sql-check.md)
@@ -182,8 +182,11 @@ What Shimauman learned through daily working and personal projects are on this w
 - [phpunit-preparation](./php/phpunit-preparation.md)
 - [property-type-definition](./php/property-type-definition.md)
 - [super-global-variable-server](./php/super-global-variable-server.md)
-- [v70-after-summary](./php/v70-after-summary.md)
-- [v74-summary](./php/v74-summary.md)
+- [v70-after-upgrading](./php/v70-after-upgrading.md)
+- [v74-upgrading](./php/v74-upgrading.md)
+- [v80-upgrading](./php/v80-upgrading.md)
+- [v81-upgrading](./php/v81-upgrading.md)
+- [v82-upgrading(Need to update)](./php/v82-upgrading.md)
 
 ## Playwright
 - [selector-best-practice](./playwright/selector-best-practice.md)
@@ -214,7 +217,7 @@ What Shimauman learned through daily working and personal projects are on this w
 - [annotation-comments(Japanese)](./other/ja-annotation-comments.md)
 - [terms(Japanese)](./other/ja-terms.md)
 - [prefecture-list-cheat-sheet](./other/prefecture-list-cheat-sheet.md)
-- [semantic-versioning](./other/semantic-versioning.md)
+- [semantic-versioning(Need to update)](./other/semantic-versioning.md)
 - [sequel-ace-and-containers-relation](./other/sequel-ace-and-containers-relation.jpeg)
 - [ssh-access-management](./other/ssh-access-management.md)
 - [version-constraints](./other/version-constraints.md)
