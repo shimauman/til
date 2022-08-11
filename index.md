@@ -135,6 +135,7 @@ What Shimauman learned through daily working and personal projects are on this w
 - [service-overview-image](./laravel/service-overview.jpeg)
 - [sql-check](./laravel/sql-check.md)
 - [v7x-upgrading](./laravel/v7x-upgrading.md)
+- [v8x-upgrading](./laravel/v8x-upgrading.md)
 
 ## Linux
 - [access-mode-change](./linux/access-mode-change.md)
