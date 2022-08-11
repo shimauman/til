@@ -214,6 +214,7 @@ What Shimauman learned through daily working and personal projects are on this w
 
 ## Other
 - [glob-pattern](./other/glob-pattern.md)
+- [restful-api(Japanese)](./other/ja-restful-api.md)
 - [annotation-comments(Japanese)](./other/ja-annotation-comments.md)
 - [terms(Japanese)](./other/ja-terms.md)
 - [prefecture-list-cheat-sheet](./other/prefecture-list-cheat-sheet.md)
