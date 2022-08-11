@@ -134,6 +134,7 @@ What Shimauman learned through daily working and personal projects are on this w
 - [pagination-from-array](./laravel/pagination-from-array.md)
 - [service-overview-image](./laravel/service-overview.jpeg)
 - [sql-check](./laravel/sql-check.md)
+- [v7x-upgrading](./laravel/v7x-upgrading.md)
 
 ## Linux
 - [access-mode-change](./linux/access-mode-change.md)
