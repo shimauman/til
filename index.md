@@ -128,6 +128,7 @@ What Shimauman learned through daily working and personal projects are on this w
 - [assert-redirect](./laravel/assert-redirect.md)
 - [collection-all-and-toArray-difference](./laravel/collection-all-and-toArray-difference.md)
 - [collection-methods](./laravel/collection-methods.md)
+- [eager-lazy-load](./laravel/eager-lazy-load.md)
 - [eloquent-return-type-list](./laravel/eloquent-return-type-list.md)
 - [bootstrap-directory-role(Japanese)(Need to update)](./laravel/ja-bootstrap-directory-role.md)
 - [make-id-column-methods(Need to update)](./laravel/make-id-column-methods.md)
