@@ -126,6 +126,8 @@ What Shimauman learned through daily working and personal projects are on this w
 - [@forelse-directive](./laravel/@forelse-directive.md)
 - [accessors-and-mutators-definition](./laravel/accessors-and-mutators-definition.md)
 - [assert-redirect](./laravel/assert-redirect.md)
+- [authenticating-roles](./laravel/authenticating-roles.md)
+- [authorizing-actions](./laravel/authorizing-actions.md)
 - [collection-all-and-toArray-difference](./laravel/collection-all-and-toArray-difference.md)
 - [collection-methods](./laravel/collection-methods.md)
 - [eager-lazy-load](./laravel/eager-lazy-load.md)
